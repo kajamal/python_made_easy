@@ -1,6 +1,9 @@
 
 # Single line comments starts with #
 
+
+age = 28  # Set age here
+
 #This is my first Python program
 
 
@@ -8,9 +11,11 @@
 
 '''
 A tuple is a collection which is ordered and unchangeable.
-
 In Python tuples are written with round brackets.
 '''
+
+# A tuple is a collection which is ordered and unchangeable.
+# In Python tuples are written with round brackets.
 
 
 # -----------------------
