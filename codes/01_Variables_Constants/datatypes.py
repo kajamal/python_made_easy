@@ -1,0 +1,10 @@
+a_string = 'Hello World' #string 
+int_num = 10 #int 
+float_num = 10.2 #float 
+complex_num = 3.14j #complex 
+x = True
+y = False
+languages = ["c", "java", "go"] # List
+languages = ("c", "java", "go") # Tuple
+details = {"name": "vikram", "age":28} # Dictionary
+subjects = {"maths", "science", "history"} # Set
